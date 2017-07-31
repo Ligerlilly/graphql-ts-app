@@ -1,3 +1,9 @@
+# You are going to need browser cors turned on
+
+### To run backend
+- clone https://github.com/Ligerlilly/todoGraphQL
+- Then follow dirctions in that repos README
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
