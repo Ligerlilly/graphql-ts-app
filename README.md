@@ -1,6 +1,6 @@
-# You are going to need browser cors turned on
+# You are going to need browser CORS turned on
 
-### To run backend
+## To run backend
 - clone https://github.com/Ligerlilly/todoGraphQL
 - Then follow dirctions in that repos README
 
